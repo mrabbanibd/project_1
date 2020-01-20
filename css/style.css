@@ -1,9 +1,11 @@
 body{background-color: #484747;
 	margin: 0;
+	margin-left:;
+	margin-right:;
 	text-align: center;
 }
 div{
-	width: 2000px;
+	width: 1000px;
 	background-color: #333333;
 	margin-left: auto;
 	margin-right: auto;
