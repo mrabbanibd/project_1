@@ -20,7 +20,7 @@ img{max-width: 100%
 	
 }
 h1{
-	font-size: 120px;
+	font-size: 80px;
 	margin: 0;
 	text-transform: capitalize;
 	color: #f26722;
@@ -28,7 +28,7 @@ h1{
 	/* margin: 0; */
 }
 b{
-	font-size: 180px;
+	font-size: 100px;
 	margin: 0;
 	text-transform: capitalize;
 	color: #ffffff;
